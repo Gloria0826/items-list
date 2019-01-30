@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.list-group-item.active {
+  color: #fff;
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+.badge-secondary {
+  color: #6c757d;
+  background-color: #fff;
+  border: 1px solid #6c757d;
+}
